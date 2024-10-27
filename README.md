@@ -1,1 +1,1 @@
-# OctaNet-Python-Development-Internship
+# OctaNet Internship: Dynamic ATM Machine Simulation in Python
